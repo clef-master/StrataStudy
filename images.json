@@ -1,0 +1,28 @@
+{
+    "images": [
+        {
+            "id": 0,
+            "name": "andesite",
+            "url": ["https://geology.com/rocks/pictures/andesite.jpg", "https://rocksminerals.flexiblelearning.auckland.ac.nz/rocks/images/andesite.jpg", "https://sites.pitt.edu/~cejones/GeoImages/2IgneousRocks/IgneousCompositions/5Andesite/AndesiteHblPlagPorph.jpg", "https://df2sm3urulav.cloudfront.net/tenants/gr/uploads/content/lxk1d6xhqmifmqkg.jpg", "https://www.alexstrekeisen.it/immagini/diagrammi/andesite2020.jpg"],
+            "stateOnly": false
+        },
+        {
+            "id": 1,
+            "name": "basalt",
+            "url": ["https://sandatlas.org/wp-content/uploads/00304-IMG_6190-8-cm-basalt-Giants-Causeway.jpg", "https://sandatlas.org/wp-content/uploads/00589-IMG_8229-12-cm-aphanitic-basalt.jpg.webp", "https://sandatlas.org/wp-content/uploads/00120-IMG_6065-Tenerife-diabase.jpg", "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Basalt_12_%2848674276333%29.jpg/1280px-Basalt_12_%2848674276333%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail", "https://geologyscience.com/wp-content/uploads/2023/04/Basalt.jpg"],
+            "stateOnly": false
+        },
+        {
+            "id": 2,
+            "name": "diorite",
+            "url": ["https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Diorite2.tif/lossy-page1-1280px-Diorite2.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail", "https://www.dedalostone.com/wp-content/uploads/2024/02/diorite.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52DneDo02TxPA9DR0nXHtz2l6PiLkf1pgKWepSiOnRGTORauXqln7PUx4&s=10", "https://sites.pitt.edu/~cejones/GeoImages/2IgneousRocks/IgneousCompositions/4Diorite/Diorite.jpg", "https://sites.pitt.edu/~cejones/GeoImages/2IgneousRocks/IgneousCompositions/4Diorite/DioriteGoreMtnCUp.jpg"],
+            "stateOnly": false
+        }, 
+        {
+            "id": 3,
+            "name": "gabbro",
+            "url": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5zi0w-cnhlf1Z4KFsmsmn26Tlf7osxsutE3Lo57Jjw&s=10", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrVJ6OprrWBoxNZMuxdDtvZa5HEcsRfw7PZWDAOl82ST4B5j5mOAFqLRWk&s=10", "https://www.alexstrekeisen.it/immagini/diagrammi/gabbro_2019_1.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8mtBQm5luaSYyCxIkAZcYu70JV1n9xanlzQBJYbhrzrUgw0m6vLjdfLw&s=10", "https://sandatlas.org/wp-content/uploads/01317-gabbro-10-cm-750x560.jpg.webp"],
+            "stateOnly": false
+        }
+    ]
+}
